@@ -5,5 +5,3 @@ def sum_of_cubes(a, b)
   	end
   	return suma
 end
-
-puts sum_of_cubes(1,3)
